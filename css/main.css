@@ -52,3 +52,38 @@ nav ol {
 h2 {
   color: #3f1622;
 }
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+.germination {
+  font-weight: bold;
+  font-size: 1.124rem;
+}
+
+.review {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+footer, cite {
+  font-size: .8rem;
+}
+
+section li {
+  list-style: lower-greek;
+}
+
+section p {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
+
+aside li {
+  list-style: circle;
+}
